@@ -8,3 +8,10 @@
   </div>
 </template>
 <script setup></script>
+
+<style lang="css">
+#nav .vue-school-active-link {
+  border-bottom: 2px solid red;
+  color: red;
+}
+</style>
