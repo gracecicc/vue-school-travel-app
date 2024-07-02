@@ -11,7 +11,7 @@
 
 <style lang="css">
 #nav .vue-school-active-link {
-  border-bottom: 2px solid red;
-  color: red;
+  border-bottom: 2px solid white;
+  color: white;
 }
 </style>
